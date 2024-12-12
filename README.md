@@ -117,7 +117,7 @@ except Exception as e:
 
 API Information
 
-For API keys, usage instructions, and further details about working with APIs, [greenapi](https://green-api.com/docs/sdk/) visit Green API Documentation.
+For API keys, usage instructions, and further details about working with APIs, [greenapi](https://green-api.com/docs/sdk/) visit Green API Documentation. add the generated api link to url to URL.py
 
 Add persistent chat storage (e.g., a database).
 
