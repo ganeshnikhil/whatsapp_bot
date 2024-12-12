@@ -119,11 +119,11 @@ API Information
 
 For API keys, usage instructions, and further details about working with APIs, [greenapi](https://green-api.com/docs/sdk/) visit Green API Documentation.
 
-## Add persistent chat storage (e.g., a database).
+Add persistent chat storage (e.g., a database).
 
-## Enhance AI response generation.
+Enhance AI response generation.
 
-## Improve error logging and monitoring.
+Improve error logging and monitoring.
 
 
 
