@@ -136,7 +136,7 @@ This project is licensed under the MIT License. See `LICENSE` for more details.
 ---
 
 ## Author
-**Your Name**  
-GitHub: [yourusername](https://github.com/ganeshnikhil)  
+**Ganesh nikhil**  
+GitHub: [ganeshnikhil](https://github.com/ganeshnikhil)  
 Email: ganeshnikhil124@gmail.com
 
