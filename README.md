@@ -113,10 +113,19 @@ except Exception as e:
 
 ---
 
-## Future Improvements
-- Add persistent chat storage (e.g., a database).
-- Enhance AI response generation.
-- Improve error logging and monitoring.
+### Future Improvements
+
+API Information
+
+For API keys, usage instructions, and further details about working with APIs, [greenapi](https://green-api.com/docs/sdk/) visit Green API Documentation.
+
+## Add persistent chat storage (e.g., a database).
+
+## Enhance AI response generation.
+
+## Improve error logging and monitoring.
+
+
 
 ---
 
